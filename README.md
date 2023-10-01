@@ -1,3 +1,0 @@
-# My new Website
-
-Welcome!
